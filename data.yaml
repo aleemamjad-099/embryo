@@ -1,0 +1,8 @@
+
+path: /content/CleavageEmbryov1.1/CleavageEmbryov1.1/  # root path
+train: images/train  # train images
+val: images/val      # val images
+
+# Classes
+names:
+  0: cell  # Aapki JSON file mein jo bhi class name hai
